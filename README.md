@@ -9,7 +9,6 @@
 
 ### 🚀 What I'm Working On
 - 🔭 I’m currently working on **Building robust RESTful APIs & backend architectures**
-- 🌱 I’m currently learning **Machine Learning**
 
 
 ### 📫 How to reach me:

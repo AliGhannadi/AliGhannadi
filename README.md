@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, Im Ali 👋
 
-<!--
-**AliGhannadi/AliGhannadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Skills
 
-Here are some ideas to get you started:
+- **Languages:** Python
+- **Backend & Frameworks:** Django, Django REST Framework, FastAPI
+- **Databases & Caching:** PostgreSQL, MySQL, Redis, SQLAlchemy
+- **DevOps & Tools:** Docker, Docker Compose, Git, Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 🔭 I’m currently working on **Building robust RESTful APIs & backend architectures**
+- 🌱 I’m currently learning **Machine Learning**
+
+
+### 📫 How to reach me:
+- **Email**: ali.ghannadi218@gmail.com
+- **Linkedin**: [https://www.linkedin.com/in/ali-ghannadi-a44639232/](https://www.linkedin.com/in/ali-ghannadi-a44639232/)

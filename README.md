@@ -2,13 +2,13 @@
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** Python
+- **Languages:** Python, C++, C
 - **Backend & Frameworks:** Django, Django REST Framework, FastAPI
 - **Databases & Caching:** PostgreSQL, MySQL, Redis, SQLAlchemy
 - **DevOps & Tools:** Docker, Docker Compose, Git, Nginx
 
 ### 🚀 What I'm Working On
-- 🔭 I’m currently working on **Building robust RESTful APIs & backend architectures**
+- 🔭 I’m currently working on **Exploring Different Areas of Software Engineering and Creating Meaningful Software.**
 
 
 ### 📫 How to reach me:
